@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 18
+names: ['Discount_Percentage', 'Due_Date', 'Email_Client', 'Name_Client', 'Products', 'Remise', 'Subtotal', 'Tax', 'Tax_Precentage', 'Tel_Client', 'billing address', 'invoice date', 'invoice number', 'shipping address', 'supplier-address', 'supplier-name', 'supplier-phone', 'total']
+
+roboflow:
+  workspace: ocrpcspayment
+  project: bill-detection-6ibue-kiafd-da7xi
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ocrpcspayment/bill-detection-6ibue-kiafd-da7xi/dataset/2

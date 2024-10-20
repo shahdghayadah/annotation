@@ -1,0 +1,16 @@
+{"time":"2024-10-20T13:02:38.253286003Z","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-20T13:02:38.253354634Z","level":"INFO","msg":"created symlink","path":"/content/wandb/offline-run-20241020_130238-dfzwxcgs/logs/debug-core.log"}
+{"time":"2024-10-20T13:02:38.255356613Z","level":"INFO","msg":"created new stream","id":"dfzwxcgs"}
+{"time":"2024-10-20T13:02:38.255398869Z","level":"INFO","msg":"stream: started","id":"dfzwxcgs"}
+{"time":"2024-10-20T13:02:38.255432316Z","level":"INFO","msg":"handler: started","stream_id":{"value":"dfzwxcgs"}}
+{"time":"2024-10-20T13:02:38.255538429Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"dfzwxcgs"}}
+{"time":"2024-10-20T13:02:38.255730449Z","level":"INFO","msg":"sender: started","stream_id":{"value":"dfzwxcgs"}}
+{"time":"2024-10-20T13:02:38.268753795Z","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-20T13:02:38.310410476Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-20T13:05:51.2696534Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-20T13:05:51.271629218Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-20T13:05:52.278407782Z","level":"INFO","msg":"stream: closing","id":"dfzwxcgs"}
+{"time":"2024-10-20T13:05:52.278426994Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"dfzwxcgs"}}
+{"time":"2024-10-20T13:05:52.278447931Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"dfzwxcgs"}}
+{"time":"2024-10-20T13:05:52.278519297Z","level":"INFO","msg":"sender: closed","stream_id":{"value":"dfzwxcgs"}}
+{"time":"2024-10-20T13:05:52.278536219Z","level":"INFO","msg":"stream: closed","id":"dfzwxcgs"}
